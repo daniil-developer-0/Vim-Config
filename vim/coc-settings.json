@@ -1,0 +1,7 @@
+{
+    // Coc Settings
+    "coc.preferences.formatOnSaveFiletypes": ["css", "html", "javascript", "markdown"],
+    // Prettier Settings
+    "prettier.trailingComma": "es5",
+    "prettier.tabWidth": 4
+}
